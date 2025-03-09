@@ -1,24 +1,26 @@
-# Node.js API Starter
+# Node Sequelize API Boilerplate
 
-A flexible Node.js API starter project with user authentication and product CRUD operations.
+The Node-MongoDB API Boilerplate is a flexible and scalable starter project for building RESTful APIs using Node.js, MongoDB, and Mongoose. It includes user authentication via JWT and provides complete CRUD operations for managing products. This boilerplate is designed to help developers quickly set up a robust backend with a focus on performance, security, and best practices.
 
-## Features
+## 📋 Table of Contents
 
-- User registration, login, and authentication
-- JWT-based authentication
-- Complete CRUD operations for products
-- MongoDB integration with Mongoose
-- Error handling middleware
-- Role-based access control
+- [About](#user-content-beginner-about)
+- [Tech Stack](#user-content-️-tech-stack)
 
-## Getting Started
+##  :beginner: About
 
-### Prerequisites
+This project serves as a starting point for creating scalable and efficient APIs using Node.js and MongoDB with Mongoose. It includes:
 
-- Node.js (v14 or higher)
-- MongoDB (local or Atlas)
+- User authentication (sign-up, login)
+- JWT-based authentication for secure API access
+- Full CRUD operations for products
+- MongoDB integration with Mongoose for database management
+- Comprehensive error handling middleware for smooth API operations
+- Easy extensibility for additional features and models
 
-### Installation
+## 🛠️ Tech Stack
 
-1. Clone the repository:
-
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose

@@ -70,4 +70,4 @@ npm run dev
 
 Download the Postman collection file from the following link to test the API endpoints.
 
-- [https://github.com/kushalsoni268/node-mongodb-api-boilerplate/blob/main/node-mongodb-api-boilerplate.postman_collection.json](https://github.com/kushalsoni268/node-mongodb-api-boilerplate/node-mongodb-api-boilerplate.postman_collection.json)
+- [https://github.com/kushalsoni268/node-mongodb-api-boilerplate/blob/main/node-mongodb-api-boilerplate.postman_collection.json](https://github.com/kushalsoni268/node-mongodb-api-boilerplate/blob/main/node-mongodb-api-boilerplate.postman_collection.json)

@@ -8,6 +8,7 @@ The Node-MongoDB API Boilerplate is a flexible and scalable starter project for 
 - [Tech Stack](#user-content-️-tech-stack)
 - [Installation](#user-content-️-installation)
 - [Run Project](#user-content--run-project)
+- [Resources](#page_facing_up-resources)
 
 ##  :beginner: About
 
@@ -64,3 +65,9 @@ To start the project, run the following command:
 ```bash
 npm run dev
 ```
+
+##  :page_facing_up: Resources
+
+Download the Postman collection file from the following link to test the API endpoints.
+
+- https://github.com/kushalsoni268/node-mongodb-api-boilerplate/node-mongodb-api-boilerplate.postman_collection.json

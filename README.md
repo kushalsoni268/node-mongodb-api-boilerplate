@@ -6,6 +6,8 @@ The Node-MongoDB API Boilerplate is a flexible and scalable starter project for 
 
 - [About](#user-content-beginner-about)
 - [Tech Stack](#user-content-️-tech-stack)
+- [Installation](#user-content-️-installation)
+- [Run Project](#user-content--run-project)
 
 ##  :beginner: About
 
@@ -24,3 +26,41 @@ This project serves as a starting point for creating scalable and efficient APIs
 - Express.js
 - MongoDB
 - Mongoose
+
+## ⚙️ Installation
+
+To set up and install this project, follow these steps:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/kushalsoni268/node-mongodb-api-boilerplate.git
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd node-mongodb-api-boilerplate
+```
+
+3. Install the required dependencies:
+
+```bash
+npm install
+```
+
+4. Set up environment variables by creating a .env file. Refer to the .env.example file for the required environment variables.
+
+```bash
+cp .env.example .env
+```
+
+5. Configure your database credentials in the .env file.
+
+## 🚀 Run Project
+
+To start the project, run the following command:
+
+```bash
+npm run dev
+```
